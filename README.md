@@ -24,7 +24,7 @@
 - Thiết bị iOS đã jailbreak
 - Theos
 - MobileSubstrate hoặc ElleKit (tùy jailbreak)
-- Có thể dùng MacOS hoặc Linuxux nếu thiết bị không thể jailbreak
+- Có thể dùng MacOS hoặc Linux nếu thiết bị không thể jailbreak
 
 ### Build & Cài đặt
 Trong thư mục dự án:
