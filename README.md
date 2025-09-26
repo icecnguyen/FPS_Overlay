@@ -29,5 +29,5 @@
 Trong thư mục dự án:
 
 ```bash
-make package //tạo deb cho jailbreak
-make //tạo dylib cho non-jailbreak
+tạo deb cho jailbreak: make package
+tạo dylib cho non-jailbreak: make
