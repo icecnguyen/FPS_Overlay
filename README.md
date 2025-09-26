@@ -21,7 +21,7 @@
 ## 📦 Cài đặt
 
 ### Yêu cầu
-- Thiết bị iOS đã jailbreak/MacOS/LinuxLinux
+- Thiết bị iOS đã jailbreak/MacOS/Linux
 - Theos build environment.
 - MobileSubstrate hoặc ElleKit (tùy jailbreak).
 
