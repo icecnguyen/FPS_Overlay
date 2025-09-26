@@ -1,6 +1,6 @@
 # FPSOverlay
 
-**FPSOverlay** là một tweak nhẹ dành cho iOS, hiển thị chỉ số FPS (khung hình/giây), phần trăm pin và thời gian hệ thống trực tiếp trên màn hình. Công cụ này hữu ích cho lập trình viên, game thủ hoặc người dùng muốn theo dõi hiệu năng thiết bị theo thời gian thực.
+**FPSOverlay** là một tweak iOS, hiển thị chỉ số FPS, phần trăm pin và thời gian hệ thống trực tiếp trên màn hình.
 
 ---
 
@@ -21,13 +21,19 @@
 ## 📦 Cài đặt
 
 ### Yêu cầu
-- Thiết bị iOS đã jailbreak/MacOS/Linux
-- Theos build environment.
-- MobileSubstrate hoặc ElleKit (tùy jailbreak).
+- Thiết bị iOS đã jailbreak
+- Theos
+- MobileSubstrate hoặc ElleKit (tùy jailbreak)
+- Có thể dùng MacOS hoặc Linuxux nếu thiết bị không thể jailbreak
 
 ### Build & Cài đặt
 Trong thư mục dự án:
 
+Nếu muốn tạo dylib
 ```bash
-tạo deb cho jailbreak: make package
-tạo dylib cho non-jailbreak: make
+make
+```
+Nếu muốn tạo deb
+```bash
+make package
+```
