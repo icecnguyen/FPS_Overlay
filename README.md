@@ -1,6 +1,6 @@
-# FPSOverlay
+# FPS Overlay
 
-**FPSOverlay** là một tweak iOS, hiển thị chỉ số FPS, phần trăm pin và thời gian hệ thống trực tiếp trên màn hình.
+**FPS Overlay** là một tweak iOS, hiển thị chỉ số FPS, phần trăm pin và thời gian hệ thống trực tiếp trên màn hình.
 
 ---
 
