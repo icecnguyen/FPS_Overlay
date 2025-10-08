@@ -37,3 +37,5 @@ Nếu muốn tạo deb
 ```bash
 make package
 ```
+
+Đừng quên đổi đường dẫn theos!!!
