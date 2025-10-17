@@ -46,7 +46,7 @@ https://bio.icêcnguyen.dpdns.org
     self.displayLabel.clipsToBounds = YES;
     self.displayLabel.textAlignment = NSTextAlignmentCenter;
     self.displayLabel.font = [UIFont systemFontOfSize:12 weight:UIFontWeightBold];
-    self.displayLabel.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.3];
+    //self.displayLabel.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.3]; //thêm dòng này hoặc bỏ đi cũng đượcđược
 
     [self updateLabelFrame];
     [self initCADisplayLink];
