@@ -1,0 +1,6 @@
+Package: com.icecnguyen.fpsoverlay
+Name: FPS Overlay
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm1
+Section: Tweaks
