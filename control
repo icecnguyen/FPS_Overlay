@@ -1,6 +1,0 @@
-Package: com.icecnguyen.fpsdisplay
-Name: FPS Display
-Depends: mobilesubstrate
-Version: 0.1
-Architecture: iphoneos-arm1
-Section: Tweaks
